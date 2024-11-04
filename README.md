@@ -1,7 +1,8 @@
 # Curso JavaScript
 
 Curso de aprendizaje, de diferentes canales (desde lo más básico).
-Canal UskoKruM2010
+<br>
+Canal: UskoKruM2010
 
 <hr/>
 
