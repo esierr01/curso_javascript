@@ -1,19 +1,32 @@
-# Curso JavaScript
+# Curso JavaScript (Prácticas)
 
-Curso de aprendizaje, de diferentes canales (desde lo más básico).
-<br>
-Canal: UskoKruM2010
+Prácticas de cursos tomados de Youtube de JavaScript,comenzando por lo más básico, con la idea de obtener un dominio intermedio del lenguaje.
 
-<hr/>
+Se han utilizado videos de cursos / tutoriales de los canales.
+<ul>
+    <li>UskoKruM2010</li>
+</ul>
 
-Para clonar este repositorio: ve a la terminal y ubicate a la carpeta donde deseas clonar el repositorio y escribe:
 
-### `git clone https://github.com/esierr01/curso_javascript.git`
-<br>
 
 <hr/>
 
+Para clonar el repositorio:
+<br>
+<ul>
+    <li>Ubicate en la carpeta donde deseas colocar este repositorio</li>
+    <li>Abre la consola / terminal en esta carpeta y escribe:</li>
+    <li>git clone https://github.com/esierr01/curso_javascript.git</li>
+</ul>
+<hr/>
+
+<h4>Desarrollo: En Proceso</h4>
+
+
+
+<hr>
 <br/>
+
 
 # 🌍 Por si deseas contactarme :
 
