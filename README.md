@@ -5,6 +5,7 @@ Prácticas de cursos tomados de Youtube de JavaScript,comenzando por lo más bá
 Se han utilizado videos de cursos / tutoriales de los canales.
 <ul>
     <li>UskoKruM2010</li>
+    <li>Victor Robles</li>
 </ul>
 
 
